@@ -1,1 +1,1 @@
-The content of the sequence_analysis library was contributed by Torbjörn Nur Olsson. 
+The content of the sequence_analysis directory was contributed by Torbjörn Nur Olsson. 
